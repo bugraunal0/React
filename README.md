@@ -1,4 +1,2 @@
-# React
-Shopping application with React
-npm install
+npm install   
 npm start
