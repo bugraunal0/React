@@ -1,0 +1,13 @@
+.outlineFirtAndLastName {
+    width: 35px;
+    height: 35px;
+    border-radius: 100px;
+    background: #0b22a5;
+  }
+  .firtAndLastName {
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    line-height: 35px;
+  }
